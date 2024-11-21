@@ -1,0 +1,26 @@
+/* image margin */
+img {
+    margin-left: 29%;
+}
+
+/* set title in red */
+h1 {
+    color:red;
+}
+
+/* set button in white */
+button {
+    background-color: whitesmoke;
+}
+
+/* set button in red while you're hover it */
+button:hover {
+    background-color: red;
+}
+body {
+    background-color: tomato
+}
+.element {
+    padding: 20px; /* Ajoute 20px de padding partout */
+}
+    
